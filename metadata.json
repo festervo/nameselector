@@ -1,0 +1,5 @@
+{
+  "name": "Emoji Company Name Generator",
+  "description": "Generate unique, pronounceable company names from two emojis and check for domain availability.",
+  "requestFramePermissions": []
+}
